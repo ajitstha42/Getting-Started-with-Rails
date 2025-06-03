@@ -61,3 +61,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "htmlbeautifier", "~> 1.3", ">= 1.3.1"
